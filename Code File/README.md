@@ -1,1 +1,1 @@
-#Folder containing the code file
+This folder contains the code file to our project
