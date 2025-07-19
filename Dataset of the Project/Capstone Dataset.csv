@@ -1,0 +1,674 @@
+State,District,Risk of Natural Calamity (Earthquake / Flood / Wind Hazards),Number of Households,Population,Decadal Growth Rate in % (2001-2011),Area (in sq km),AQI,Current Infrastructure,Average Commute Time,Connectivity to Airport (within 100 kms),Trip Length(KM),Metro Present in 2025
+Telangana,Adilabad,Medium,"649,849","2,741,239",11,16105.00,120,Inadequate,30,No,3,No
+Uttar Pradesh,Agra,Medium,"710,566","4,418,797",20,4041.00,121,Sufficient,35,Yes,7,No
+Gujarat,Ahmedabad,Medium,"1,510,134","7,214,225",19,8107.00,193,Inadequate,40,Yes,2,No
+Maharashtra,Ahmednagar,Low,"930,024","4,543,159",16,17048.00,169,Inadequate,30,No,3,No
+Mizoram,Aizawl,High,"82,524","400,309",23,3576.00,29,Inadequate,8,Yes,4,No
+Rajasthan,Ajmer,Low,"494,832","2,583,052",21,8481.00,112,Sufficient,17,Yes,6,Yes
+Maharashtra,Akola,Low,"395,690","1,813,906",16,5672.81,120,Overburdened,30,No,2,No
+Kerala,Alappuzha,Medium,"535,958","2,127,789",5,1415.00,48,Inadequate,25,Yes,4,No
+Uttar Pradesh,Aligarh,Medium,"611,371","3,673,889",20,3650.00,98,Sufficient,13,Yes,6,Yes
+Madhya Pradesh,Alirajpur,Low,"123,800","728,999",20,3182.00,177,Sufficient,30,No,2,No
+Uttar Pradesh,Allahabad ,Low,"976,733","5,954,391",20,5482.00,357,Overburdened,35,Yes,9,No
+Uttarakhand,"Almora
+",High,"140,577","622,506",19,3144.00,82,Inadequate,25,No,4,No
+Rajasthan,Alwar,Medium,"639,720","3,674,179",21,8380.00,185,Sufficient,11,Yes,2,No
+Haryana,Ambala,Medium,"224,334","1,128,350",20,1574.00,195,Sufficient,7,Yes,4,Yes
+Uttar Pradesh,Ambedkar Nagar,Low,"368,728","2,397,888",20,2350.00,90,Sufficient,6,No,5,No
+Maharashtra,Amravati,Medium,"647,451","2,888,445",16,12210.00,118,Sufficient,10,Yes,3,Yes
+Gujarat,Amreli,Low,"294,837","1,514,190",19,7397.00,177,Sufficient,5,No,4,Yes
+Punjab,Amritsar ,Medium,"488,898","2,490,656",13,2683.00,269,Overburdened,7,Yes,6,No
+Gujarat,Anand  ,Low,"427,605","2,092,745",19,3204.00,76,Sufficient,4,Yes,5,No
+Andhra Pradesh,Anantapur,Low,"968,160","4,081,148",11,19130.00,50,Inadequate,8,Yes,2,Yes
+Jammu and Kashmir,Anantnag,High,"153,640","1,078,692",23,3574.00,74,Inadequate,6,Yes,5,No
+Arunachal Pradesh,Anjaw,High,"4,612","21,167",26,6190.00,66,Inadequate,12,No,7,No
+Odisha,Anugul  ,Low,"297,050","1,273,821",14,6375.00,151,Inadequate,5,No,4,No
+Madhya Pradesh,Anuppur,Low,"170,715","749,237",20,3747.00,45,Inadequate,6,No,3,Yes
+Bihar,Araria,High,"568,142","2,811,569",25,2830.00,211,Inadequate,2,No,2,No
+Tamil Nadu,Ariyalur  ,Low,"197,090","754,894",16,1940.00,19,Inadequate,3,Yes,5,Yes
+Bihar,Arwal,Low,"118,222","700,843",25,638.00,32,Sufficient,4,No,3,No
+Madhya Pradesh,Ashoknagar,Low,"172,680","845,071",20,4674.00,51,Sufficient,6,No,6,No
+Uttar Pradesh,Auraiya,Low,"248,197","1,379,545",20,2016.00,89,Sufficient,11,No,4,No
+Maharashtra,Aurangabad,Low,"391,898","2,540,073",16,3305.00,121,Sufficient,16,Yes,5,Yes
+Bihar,Aurangabad,Medium,"751,915","3,701,282",25,10130.89,104,Overburdened,16,Yes,4,No
+Uttar Pradesh,Azamgarh,Medium,"665,232","4,613,913",20,4054.00,121,Overburdened,6,No,3,No
+Jammu and Kashmir,Badgam,Low,"103,363","753,745",23,1361.00,117,Sufficient,7,Yes,5,No
+Karnataka,Bagalkot ,Low,"361,149","1,889,752",15,6552.00,201,Sufficient,7,Yes,6,Yes
+Uttarakhand,Bageshwar,Medium,"58,046","259,898",18,2241.00,31,Sufficient,8,No,3,No
+Uttar Pradesh,Baghpat,Low,"209,916","1,303,048",20,1321.00,310,Inadequate,3,Yes,2,No
+Uttar Pradesh,Bahraich,High,"603,754","3,487,731",20,5237.00,64,Sufficient,7,No,4,No
+Assam,Baksa,Low,"191,701","950,075",17,2457.00,132,Inadequate,2,No,5,No
+Madhya Pradesh,Balaghat,Medium,"391,836","1,701,698",20,9229.00,184,Overburdened,11,No,7,No
+Odisha,Balangir,Medium,"414,749","1,648,997",14,6575.00,37,Inadequate,9,No,3,No
+Odisha,Baleshwar,High,"533,001","2,320,529",14,3806.00,54,Sufficient,4,No,5,No
+Uttar Pradesh,Ballia,Medium,"480,268","3,239,774",20,2981.00,72,Inadequate,11,No,3,No
+Uttar Pradesh,Balrampur,Low,"323,881","2,148,665",20,3349.00,59,Sufficient,8,No,2,No
+Gujarat,Banas Kantha,Low,"560,411","3,120,506",19,10743.00,22,Sufficient,19,No,4,Yes
+Uttar Pradesh,Banda,Medium,"319,963","1,799,410",20,4408.00,174,Sufficient,12,No,6,No
+Jammu and Kashmir,Bandipore,Low,"58,392","392,232",23,345.00,88,Sufficient,11,Yes,4,No
+Karnataka,Bangalore,Medium,"2,393,845","9,621,551",15,2196.00,93,Sufficient,45,Yes,15,Yes
+Karnataka,Bangalore Rural,Medium,"229,279","990,923",15,2298.00,93,Inadequate,45,Yes,9,Yes
+Bihar,Banka,Low,"381,601","2,034,763",25,3020.00,65,Overburdened,11,No,14,No
+West Bengal,Bankura ,Medium,"766,902","3,596,674",11,6882.00,78,Overburdened,12,No,12,No
+Rajasthan,Banswara,Low,"367,797","1,797,485",20,4522.00,172,Sufficient,11,No,5,Yes
+Uttar Pradesh,Bara Banki,Low,"579,058","3,260,699",19,4402.00,41,Sufficient,8,Yes,4,No
+Jammu and Kashmir,Baramula,Medium,"152,635","1,008,039",16,4243.00,121,Inadequate,5,Yes,7,No
+Rajasthan,Baran,Low,"241,428","1,222,755",23,6992.00,211,Inadequate,12,No,3,No
+West Bengal,Barddhaman ,Medium,"1,730,927","7,717,563",21,7024.00,65,Overburdened,17,Yes,8,No
+Uttar Pradesh,Bareilly,Medium,"756,784","4,448,359",16,4120.00,200,Inadequate,25,Yes,4,Yes
+Odisha,Bargarh,Medium,"370,308","1,481,255",5,5837.00,116,Sufficient,7,No,4,No
+Rajasthan,Barmer,High,"451,629","2,603,751",20,28387.00,243,Sufficient,12,No,7,No
+Punjab,Barnala,Low,"115,798","595,527",20,1482.00,78,Sufficient,8,No,2,No
+Assam,Barpeta,Low,"337,929","1,693,622",20,2282.00,36,Inadequate,11,No,3,Yes
+Madhya Pradesh,Barwani ,Low,"243,277","1,385,881",19,5427.00,44,Sufficient,13.4,No,5,No
+Chhattisgarh,Bastar,Low,"311,538","1,413,199",21,10470.00,94,Sufficient,13.30649351,No,6,No
+Uttar Pradesh,Basti,Low,"382,212","2,464,464",20,2688.00,121,Overburdened,13.21298701,No,5,No
+Punjab,Bathinda,Low,"273,902","1,388,525",20,3353.00,192,Overburdened,13.11948052,Yes,7,Yes
+Odisha,Baudh,Low,"106,961","441,162",16,3098.00,155,Sufficient,13.02597403,No,3,No
+Bihar,Begusarai,Low,"589,667","2,970,541",19,1918.00,183,Inadequate,12.93246753,No,4,Yes
+Karnataka,Belgaum,Low,"983,854","4,779,661",13,13433.00,41,Inadequate,12.83896104,Yes,5,No
+Karnataka,Bellary,Medium,"489,118","2,452,595",19,8461.00,137,Overburdened,12.74545455,Yes,2,Yes
+Madhya Pradesh,Betul,Low,"329,832","1,575,362",11,10043.00,64,Inadequate,12.65194805,No,8,No
+Odisha,Bhadrak,High,"306,333","1,506,337",23,2505.00,41,Sufficient,12.55844156,No,4,No
+Bihar,Bhagalpur,High,"564,711","3,037,766",26,2569.00,236,Sufficient,12.46493506,Yes,6,No
+Maharashtra,Bhandara,Low,"278,076","1,200,334",14,4087.00,61,Sufficient,12.37142857,Yes,4,No
+Rajasthan,Bharatpur,High,"425,414","2,548,462",20,5066.00,101,Inadequate,12.27792208,Yes,3,Yes
+Gujarat,Bharuch,Low,"333,483","1,551,019",25,6509.00,97,Sufficient,12.18441558,Yes,2,No
+Gujarat,Bhavnagar,Medium,"538,605","2,880,365",16,10034.00,136,Sufficient,12.09090909,Yes,6,Yes
+Rajasthan,Bhilwara,Low,"498,125","2,408,523",25,10455.00,109,Overburdened,11.9974026,No,8,No
+Madhya Pradesh,Bhind,Low,"299,233","1,703,005",20,4459.00,143,Overburdened,11.9038961,No,5,Yes
+Haryana,Bhiwani,Low,"311,380","1,634,445",19,4778.00,325,Sufficient,11.81038961,No,4,No
+Bihar,Bhojpur,Low,"416,090","2,728,407",11,2395.00,63,Inadequate,11.71688312,No,8,No
+Madhya Pradesh,Bhopal,Low,"501,805","2,371,061",23,2772.00,252,Inadequate,11.62337662,Yes,4,No
+Maharashtra,Beed,Medium,"535,835","2,585,049",26,10693,140,Inadequate,3,No,4,No
+Karnataka,Bidar,Low,"319,937","1,703,300",14,5448.00,118,Overburdened,11.52987013,Yes,5,No
+Karnataka,Bijapur (Karnataka),Low,"54,757","255,230",20,8530.00,41,Inadequate,11.43636364,Yes,6,Yes
+Chhattisgarh,Bijapur (Chattisgarh),Low,"408,806","2,177,331",25,10498.00,41,Sufficient,3,No,3,Yes
+Uttar Pradesh,Bijnor,Low,"633,197","3,682,713",16,4561.00,70,Sufficient,14,No,6,No
+Rajasthan,Bikaner,High,"384,944","2,363,937",25,30239.00,34,Sufficient,7,Yes,4,Yes
+Chandigarh,Bilaspur (Chandigarh),Low,"80,485","381,956",20,1167.00,56,Inadequate,5,Yes,3,No
+Himachal Pradesh,Bilaspur (Himachal),Low,"600,822","2,663,629",20,8272.00,127,Sufficient,6,No,7,No
+West Bengal,Birbhum,High,"817,899","3,502,404",16,4545.00,65,Sufficient,7,No,3,No
+Manipur,Bishnupur,Low,"46,580","237,399",25,496.00,184,Inadequate,12,No,8,Yes
+Jharkhand,Bokaro,Low,"394,918","2,062,330",20,2883.00,196,Sufficient,11,Yes,5,No
+Assam,Bongaigaon,High,"150,018","738,804",23,1093.00,54,Inadequate,4,No,6,No
+Uttar Pradesh,Budaun,Low,"615,776","3,681,896",15,5168.00,145,Overburdened,4,No,8,No
+Uttar Pradesh,Bulandshahr ,Low,"587,529","3,499,171",18,4512.00,47,Inadequate,13,Yes,5,Yes
+Maharashtra,Buldana,Medium,"561,504","2,586,258",20,9661.00,97,Sufficient,12,No,7,No
+Rajasthan,Bundi,Low,"220,768","1,110,906",20,5776.00,75,Inadequate,13,No,4,No
+Madhya Pradesh,Burhanpur,Low,"146,341","757,847",17,3427.00,122,Sufficient,11,No,3,No
+Bihar,Buxar,Medium,"261,660","1,706,352",20,1703.00,211,Sufficient,12,No,6,No
+Assam,Cachar,Low,"379,955","1,736,617",14,3786.00,91,Sufficient,21,No,5,Yes
+Karnataka,Chamarajanagar,Low,"244,874","1,020,791",14,5648.00,80,Sufficient,11,No,4,Yes
+Himachal Pradesh,Chamba,Medium,"102,460","519,080",20,6522.00,133,Sufficient,8,No,5,No
+Uttarakhand,Chamoli,High,"88,964","391,605",20,8030.00,89,Inadequate,9,No,6,No
+Uttarakhand,Champawat,Medium,"53,953","259,648",19,1766.00,89,Overburdened,4,No,4,No
+Mizoram,Champhai,High,"25,520","125,745",20,3185.00,21,Overburdened,8,No,7,No
+Uttar Pradesh,Chandauli,Low,"296,804","1,952,756",23,2541.00,92,Sufficient,2,No,4,Yes
+Manipur,Chandel,Medium,"28,801","144,182",15,3313.00,61,Sufficient,14,No,3,No
+Chandigarh,Chandigarh,Low,"241,173","1,055,450",15,114.00,98,Inadequate,21,Yes,5,No
+Maharashtra,Chandrapur,Medium,"536,686","2,204,307",25,11443.00,149,Inadequate,11,Yes,7,Yes
+Arunachal Pradesh,Changlang,High,"29,521","148,226",19,4662.00,40,Overburdened,12,No,4,No
+Jharkhand,Chatra,Low,"182,271","1,042,886",20,3718.00,91,Inadequate,14,No,4,No
+Tamil Nadu,Chennai,High,"1,154,982","4,646,732",23,175.00,92,Sufficient,35,Yes,5,Yes
+Madhya Pradesh,Chhatarpur,Low,"356,297","1,762,375",15,8687.00,90,Sufficient,16.53359684,No,6,No
+Madhya Pradesh,Chhindwara,Low,"443,361","2,090,922",15,11815.00,88,Sufficient,16.93675889,No,3,No
+Karnataka,Chikkaballapura,Low,"284,698","1,255,104",25,4244.00,71,Inadequate,17.33992095,Yes,5,Yes
+Karnataka,Chikmagalur,Low,"276,085","1,137,961",11,7202.00,109,Sufficient,17.743083,Yes,6,Yes
+Assam,Chirang,Low,"97,395","482,162",20,1923.00,56,Sufficient,18.14624506,No,4,Yes
+Karnataka,Chitradurga,Low,"357,003","1,659,456",19,8436.00,73,Overburdened,18.54940711,No,6,No
+Uttar Pradesh,Chitrakoot,Medium,"168,232","991,730",16,3216.00,94,Overburdened,18.95256917,No,8,No
+Rajasthan,Chittaurgarh,Medium,"329,119","1,544,338",23,7822.00,54,Sufficient,19.35573123,No,2,No
+Andhra Pradesh,Chittoor,Medium,"1,039,953","4,174,064",21,15152.00,37,Inadequate,19.75889328,Yes,5,No
+Manipur,Churachandpur,High,"49,089","274,143",16,4570.00,37,Inadequate,20.16205534,No,6,No
+Rajasthan,Churu,Medium,"348,984","2,039,547",5,13835.00,95,Overburdened,20.56521739,No,3,No
+Tamil Nadu,Coimbatore,Medium,"958,035","3,458,045",20,4732.00,87,Inadequate,20.96837945,Yes,8,No
+Tamil Nadu,Cuddalore,High,"635,578","2,605,914",20,3703.00,76,Sufficient,21.3715415,Yes,3,Yes
+Odisha,Cuttack,High,"579,170","2,624,470",20,3932.00,51,Sufficient,21.77470356,Yes,8,No
+Dadra & Nagar Haveli,Dadra & Nagar Haveli,Low,"76,458","343,709",19,491.00,88,Sufficient,22.17786561,Yes,5,No
+Chhattisgarh,Dakshin Bastar Dantewada,Low,"120,850","533,638",21,8298.00,62,Inadequate,22.58102767,No,6,No
+West Bengal,Dakshin Dinajpur,Low,"396,406","1,676,276",20,2219.00,64,Sufficient,22.98418972,No,7,No
+Karnataka,Dakshina Kannada,Medium,"439,733","2,089,649",20,4861.00,78,Sufficient,23.38735178,Yes,3,No
+Daman and Diu,Daman,Low,"50,376","191,173",16,72.00,41,Inadequate,23.79051383,Yes,9,No
+Madhya Pradesh,Damoh,Low,"297,608","1,264,219",19,7306.00,25,Sufficient,24.19367589,No,2,No
+Bihar,Darbhanga,High,"803,012","3,937,385",13,2279.00,86,Inadequate,12,Yes,5,No
+West Bengal,Darjiling ,Low,"391,234","1,846,823",20,3149.00,145,Overburdened,23,Yes,4,No
+Assam,Darrang,Low,"187,783","928,500",19,1585.00,161,Inadequate,9,No,2,No
+Madhya Pradesh,Datia,Low,"160,215","786,754",16,2902.00,67,Sufficient,12,No,6,No
+Rajasthan,Dausa,Low,"292,502","1,634,409",23,3432.00,153,Inadequate,7,No,7,Yes
+Karnataka,Davanagere,Low,"410,176","1,945,497",21,5924.00,74,Sufficient,4,No,4,No
+Odisha,Debagarh,Low,"75,452","312,520",16,2940.00,59,Sufficient,17,No,6,No
+Uttarakhand,Dehradun,Medium,"347,001","1,696,694",5,3088.00,168,Sufficient,17,Yes,3,No
+Jharkhand,Deoghar,Low,"264,347","1,492,073",20,2477.00,52,Sufficient,19,Yes,5,No
+Uttar Pradesh,Deoria,Low,"468,346","3,100,946",20,2540.00,76,Sufficient,11,No,6,Yes
+Madhya Pradesh,Dewas,Low,"308,871","1,563,715",20,7020.00,89,Inadequate,7,Yes,7,Yes
+Tripura,Dhalai,Medium,"84,509","378,230",19,2400.00,59,Overburdened,11,No,4,No
+Chhattisgarh,Dhamtari ,Low,"170,951","799,781",21,4084.00,157,Overburdened,15,No,5,No
+Jharkhand,Dhanbad,Low,"507,064","2,684,487",20,2040.00,181,Sufficient,17,Yes,6,No
+Madhya Pradesh,Dhar,Low,"425,914","2,185,793",20,8153.00,62,Sufficient,14,No,9,No
+Tamil Nadu,Dharmapuri,Low,"375,873","1,506,843",16,4497.00,34,Inadequate,12,No,2,No
+Karnataka,Dharwad,Low,"382,700","1,847,023",19,4260.00,65,Inadequate,3,Yes,3,No
+Assam,Dhemaji,High,"129,869","686,133",13,3237.00,32,Overburdened,6,No,6,No
+Odisha,Dhenkanal,Low,"279,364","1,192,811",19,4452.00,65,Inadequate,14,No,7,No
+Rajasthan,Dholpur,Low,"203,754","1,206,516",11,3033.00,70,Sufficient,7,No,8,No
+Assam,Dhubri,High,"414,674","1,949,258",23,2176.00,54,Sufficient,8,No,4,No
+Maharashtra,Dhule,Low,"408,874","2,050,862",26,7195.00,23,Sufficient,9,Yes,5,No
+Arunachal Pradesh,Dibang Valley,Low,"1,952","8,004",14,9129.00,61,Inadequate,13,No,6,No
+Assam,Dibrugarh,High,"276,867","1,326,335",20,3381.00,103,Sufficient,5,Yes,3,No
+Assam,Dima Hasao,Medium,"42,252","214,102",25,4888.00,79,Sufficient,14,No,5,No
+Nagaland,Dimapur ,Medium,"78,605","378,811",16,927.00,89,Overburdened,2,Yes,6,No
+Tamil Nadu,Dindigul,Medium,"560,773","2,159,775",25,6036.00,52,Overburdened,5,Yes,7,No
+Madhya Pradesh,Dindori ,Low,"169,630","704,524",20,7470.00,44,Sufficient,7,No,8,No
+Daman and Diu,Diu,Low,"10,580","52,074",19,39.00,38,Inadequate,4,Yes,3,No
+Jammu and Kashmir,Doda,High,"79,636","409,936",11,8912.00,87,Inadequate,16,No,4,No
+Gujarat,Dohad  ,Low,"334,272","2,127,086",23,3642.00,98,Overburdened,4,No,2,No
+Jharkhand,Dumka,Low,"275,019","1,321,442",26,3761.00,14,Inadequate,8,No,5,No
+Rajasthan,Dungarpur,Medium,"282,029","1,388,552",14,3770.00,56,Sufficient,13,No,6,No
+Chhattisgarh,Durg,Medium,"701,707","3,343,872",20,8535.00,74,Sufficient,12,Yes,3,Yes
+Meghalaya,East Garo Hills,Medium,"58,328","317,917",25,2603.00,72,Sufficient,6,No,4,No
+Andhra Pradesh,East Godavari,High,"1,428,528","5,154,296",16,10807.00,55,Inadequate,12,Yes,5,No
+Arunachal Pradesh,East Kameng,High,"14,508","78,690",25,4134.00,88,Sufficient,5,No,6,No
+Meghalaya,East Khasi Hills,High,"164,046","825,922",20,2748.00,27,Sufficient,3,Yes,3,No
+Arunachal Pradesh,East Siang,High,"19,107","99,214",20,3603.00,12,Inadequate,4,No,6,No
+Kerala,Ernakulam,High,"814,011","3,282,388",16,3063.00,65,Sufficient,15,Yes,7,Yes
+Tamil Nadu,Erode,Medium,"658,071","2,251,744",25,5760.00,78,Inadequate,2,Yes,4,No
+Uttar Pradesh,Etah,Medium,"290,683","1,774,480",20,2431.00,147,Overburdened,16,No,5,No
+Uttar Pradesh,Etawah,Medium,"277,527","1,581,810",23,2311.00,189,Inadequate,13,No,8,No
+Uttar Pradesh,Faizabad,Medium,"423,375","2,470,996",15,2341.00,194,Sufficient,13,Yes,9,No
+Haryana,Faridabad,Medium,"358,919","1,809,733",18,741.00,174,Inadequate,6,Yes,3,Yes
+Punjab,Faridkot,Low,"120,893","617,508",20,1458.00,90,Sufficient,9,No,2,No
+Uttar Pradesh,Farrukhabad,Low,"314,144","1,885,204",20,2181.00,45,Sufficient,2,No,5,No
+Haryana,Fatehabad,Low,"180,637","942,011",17,2538.00,123,Sufficient,3,No,6,No
+Punjab,Fatehgarh Sahib,Low,"118,100","600,163",20,1180.00,123,Sufficient,4,No,7,No
+Uttar Pradesh,Fatehpur,Medium,"472,238","2,632,733",14,4152.00,145,Sufficient,5,No,4,No
+Uttar Pradesh,Firozabad,Low,"414,266","2,498,156",14,2407.00,165,Inadequate,2,No,3,No
+Punjab,Firozpur,Low,"385,994","2,029,074",20,5305.00,178,Overburdened,6,No,5,No
+Karnataka,Gadag,Low,"219,096","1,064,570",20,4657.00,189,Overburdened,7,No,6,No
+Maharashtra,Gadchiroli,Medium,"250,435","1,072,942",19,14412.00,127,Sufficient,5,No,3,No
+Odisha,Gajapati,Low,"128,523","577,817",20,4325.00,201,Sufficient,5,No,4,No
+Jammu and Kashmir,Ganderbal,Low,"45,361","297,446",23,259.00,74,Inadequate,4,No,5,No
+Gujarat,Gandhinagar,Low,"289,990","1,391,753",15,2140.00,38,Inadequate,3,Yes,2,Yes
+Rajasthan,Ganganagar ,Low,"387,511","1,969,168",15,10978.00,39,Overburdened,8,No,7,No
+Odisha,Ganjam,High,"758,267","3,529,031",25,8206.00,22,Inadequate,3,No,5,No
+Jharkhand,Garhwa ,Medium,"254,697","1,322,784",19,4093.00,177,Sufficient,5,No,4,No
+Uttarakhand,Garhwal,Low,"161,778","687,271",20,5329.00,162,Sufficient,12,No,8,No
+Uttar Pradesh,Gautam Buddha Nagar,Low,"327,090","1,648,115",23,1282.00,142,Sufficient,13,Yes,6,Yes
+Bihar,Gaya,High,"688,425","4,391,418",15,4976.00,170,Inadequate,15,Yes,3,No
+Uttar Pradesh,Ghaziabad,Medium,"850,676","4,681,645",15,1179.00,280,Sufficient,21,Yes,5,Yes
+Uttar Pradesh,Ghazipur,Low,"546,664","3,620,268",25,3377.00,167,Sufficient,16,No,6,No
+Jharkhand,Giridih,Low,"396,521","2,445,474",11,4962.00,45,Overburdened,8,No,3,No
+Assam,Goalpara,Medium,"198,454","1,008,183",20,1824.00,57,Overburdened,9,No,6,No
+Jharkhand,Godda,Low,"253,648","1,313,551",19,2266.00,53,Sufficient,12,No,8,No
+Assam,Golaghat,Medium,"227,197","1,066,888",16,3502.00,84,Inadequate,13,No,3,No
+Uttar Pradesh,Gonda,Medium,"541,247","3,433,919",23,4003.00,57,Inadequate,14,No,12,No
+Maharashtra,Gondiya,Medium,"292,369","1,322,507",21,5234.00,58,Overburdened,12,Yes,4,No
+Bihar,Gopalganj,Low,"413,044","2,562,012",16,2033.00,86,Inadequate,3,No,3,No
+Uttar Pradesh,Gorakhpur,High,"692,960","4,440,895",5,3321.00,60,Sufficient,4,Yes,7,No
+Karnataka,Gulbarga,Medium,"471,601","2,566,326",20,10954.00,63,Sufficient,7,Yes,11,No
+Jharkhand,Gumla,Medium,"188,988","1,025,213",20,5360.00,56,Sufficient,15,No,2,No
+Madhya Pradesh,Guna,Medium,"244,401","1,241,519",20,6390.00,25,Inadequate,16,No,3,No
+Andhra Pradesh,Guntur,High,"1,296,609","4,887,813",19,11391.00,78,Sufficient,9,Yes,6,No
+Punjab,Gurdaspur,Medium,"443,666","2,298,323",21,3551.00,66,Sufficient,12,No,12,No
+Haryana,Gurgaon,Medium,"326,428","1,514,432",20,1258.00,72,Inadequate,27,Yes,1,Yes
+Madhya Pradesh,Gwalior,Medium,"383,845","2,032,036",20,4560.00,289,Sufficient,8,Yes,15,No
+Assam,Hailakandi,Medium,"143,350","659,296",16,1327.00,90,Inadequate,12,No,2,No
+Uttar Pradesh,Hamirpur,Medium,"204,863","1,104,285",19,4021,160,Inadequate,8,Yes,5,No
+Himachal Pradesh,Hamirpur (HP),Low,"105,519","454,768",13,1118.00,21,Overburdened,12,No,6,No
+Rajasthan,Hanumangarh,Medium,"336,192","1,774,692",11,9656.00,79,Inadequate,4,No,7,No
+West Bengal,Howrah,High,"1,061,336","4,850,029",20,1467.00,66,Sufficient,32,Yes,3,Yes
+Madhya Pradesh,Harda ,Low,"113,379","570,465",19,3334.00,122,Inadequate,15,No,6,No
+Uttar Pradesh,Hardoi,Low,"730,442","4,092,845",16,5986.00,54,Sufficient,12,No,3,No
+Uttarakhand,Haridwar,Low,"338,104","1,890,422",23,2360.00,112,Sufficient,8,Yes,7,Yes
+Karnataka,Hassan,Low,"433,453","1,776,421",21,6814.00,46,Sufficient,8,Yes,5,No
+Karnataka,Haveri,Low,"330,414","1,597,668",16,4823.00,133,Sufficient,12,No,6,No
+Jharkhand,Hazaribagh,Medium,"304,749","1,734,495",5,3555.00,76,Inadequate,14.28342246,No,3,No
+Maharashtra,Hingoli,Low,"228,868","1,177,345",20,4827.00,42,Inadequate,14.45423988,No,6,No
+Haryana,Hisar,Low,"335,608","1,743,931",20,3983.00,93,Sufficient,14.6250573,Yes,1,No
+Madhya Pradesh,Hoshangabad,Low,"257,199","1,241,350",20,6703.00,54,Sufficient,14.79587471,No,17,No
+Punjab,Hoshiarpur,Low,"336,994","1,586,625",19,3386.00,114,Sufficient,14.96669213,No,8,No
+West Bengal,Hugli ,Low,"1,287,423","5,519,145",21,3149.00,15,Inadequate,15.13750955,Yes,4,Yes
+West Bengal,Hugli ,Low,"849,051","3,943,323",20,217.00,56,Inadequate,15.30832697,Yes,7,Yes
+Kerala,Idukki ,Low,"279,812","1,108,974",20,4356.00,155,Inadequate,15.47914439,No,5,No
+Manipur,Imphal East,Medium,"92,124","456,113",16,709.00,58,Inadequate,15.6499618,Yes,3,No
+Manipur,Imphal West,Medium,"111,156","517,992",19,519.00,12,Overburdened,15.82077922,Yes,6,No
+Madhya Pradesh,Indore,Medium,"649,540","3,276,697",13,3898.00,148,Sufficient,15.99159664,Yes,4,Yes
+Madhya Pradesh,Jabalpur,Medium,"539,060","2,463,289",19,5211.00,77,Overburdened,16.16241406,Yes,8,Yes
+Odisha,Jagatsinghapur ,High,"261,307","1,136,971",11,1668.00,32,Overburdened,16.33323147,No,9,No
+Meghalaya,Jaintia Hills,Medium,"66,028","395,124",23,3819.00,65,Inadequate,16.50404889,No,3,No
+Rajasthan,Jaipur,High,"1,177,096","6,626,178",26,11143.00,129,Inadequate,16.67486631,Yes,2,Yes
+Rajasthan,Jaisalmer,Medium,"117,171","669,919",14,38401.00,180,Inadequate,16.84568373,Yes,5,No
+Odisha,Jajapur  ,High,"407,851","1,827,192",20,2899.00,65,Sufficient,17.01650115,No,6,No
+Punjab,Jalandhar,Low,"461,635","2,193,590",25,2624.00,154,Inadequate,17.18731856,Yes,7,Yes
+Uttar Pradesh,Jalaun ,Low,"288,338","1,689,974",16,4565.00,67,Overburdened,17.35813598,No,3,No
+Maharashtra,Jalgaon,Medium,"903,643","4,229,917",25,11765.00,134,Inadequate,17.5289534,Yes,8,No
+Maharashtra,Jalna,Low,"391,701","1,959,046",20,7694.11,65,Sufficient,17.69977082,No,9,No
+Rajasthan,Jalor,Medium,"326,134","1,828,730",20,10640.00,67,Sufficient,17.87058824,No,5,No
+West Bengal,Jalpaiguri ,High,"868,326","3,872,846",16,6227.00,27,Inadequate,18.04140565,No,4,No
+Jammu and Kashmir,Jammu,Medium,"314,199","1,529,958",25,2342.00,106,Overburdened,18.21222307,Yes,2,No
+Gujarat,Jamnagar,Medium,"430,941","2,160,119",20,14184.00,101,Overburdened,18.38304049,Yes,6,Yes
+Jharkhand,Jamtara,Low,"155,275","791,042",23,1811.00,65,Sufficient,18.55385791,No,7,No
+Bihar,Jamui,Low,"307,082","1,760,405",15,3098.00,54,Overburdened,18.72467532,No,4,No
+Chhattisgarh,Janjgir - Champa,Medium,"364,532","1,619,707",18,3853.00,83,Inadequate,18.89549274,No,3,No
+Chhattisgarh,Jashpur ,Medium,"192,570","851,669",20,5838.00,65,Overburdened,19.06631016,No,5,No
+Uttar Pradesh,Jaunpur,Low,"663,513","4,494,204",20,4038.00,178,Overburdened,19.23712758,No,7,No
+Bihar,Jehanabad ,Low,"181,740","1,125,313",17,931.00,79,Overburdened,19.407945,No,8,No
+Madhya Pradesh,Jhabua,Low,"194,157","1,025,048",20,3600.00,56,Sufficient,19.57876241,No,5,No
+Haryana,Jhajjar,Low,"185,334","958,405",14,1834.00,79,Sufficient,19.74957983,No,7,No
+Rajasthan,Jhalawar,Low,"283,295","1,411,129",14,6219.00,41,Sufficient,19.92039725,No,11,No
+Uttar Pradesh,Jhansi,Low,"367,779","1,998,603",20,5024.00,133,Overburdened,20.09121467,Yes,12,Yes
+Odisha,Jharsuguda,Low,"136,061","579,505",20,2114.00,56,Inadequate,20.26203209,Yes,5,No
+Rajasthan,Jhunjhunun,Low,"384,197","2,137,045",19,5928.00,165,Sufficient,20.4328495,No,6,No
+Haryana,Jind,Low,"249,736","1,334,152",20,2702.00,15,Inadequate,20.60366692,No,7,No
+Rajasthan,Jodhpur,Low,"649,013","3,687,165",23,22850.00,227,Overburdened,20.77448434,Yes,8,No
+Assam,Jorhat,Medium,"236,262","1,092,256",15,2851.00,144,Inadequate,20.94530176,Yes,9,No
+Gujarat,Junagadh,Medium,"527,326","2,743,082",15,8831.00,53,Sufficient,21.11611917,Yes,3,No
+Uttar Pradesh,Jyotiba Phule Nagar,Low,"314,401","1,840,221",25,2249.00,23,Inadequate,21.28693659,No,5,No
+Chhattisgarh,Kabeerdham,Low,"178,446","822,526",11,4235.00,56,Inadequate,21.45775401,No,7,No
+Gujarat,Kachchh ,High,"445,672","2,092,371",20,45674.00,73,Overburdened,21.62857143,Yes,9,No
+Bihar,Kaimur (Bhabua),Medium,"250,884","1,626,384",19,3332.00,125,Inadequate,21.79938885,No,12,No
+Haryana,Kaithal,Low,"204,274","1,074,304",16,2317.00,71,Inadequate,21.97020626,No,2,No
+Odisha,Kalahandi,High,"401,251","1,576,869",23,7920.00,65,Inadequate,22.14102368,No,5,No
+Assam,Kamrup,High,"311,114","1,517,542",21,3105.00,31,Sufficient,22.3118411,Yes,6,No
+Assam,Kamrup Metropolitan,High,"293,112","1,253,938",16,955.00,145,Overburdened,22.48265852,Yes,7,Yes
+Tamil Nadu,Kancheepuram,Low,"1,006,245","3,998,252",5,4483.00,16,Sufficient,22.65347594,Yes,4,Yes
+Odisha,Kandhamal,High,"172,022","733,110",20,8021.00,151,Sufficient,22.82429335,No,9,No
+Himachal Pradesh,Kangra,High,"338,887","1,510,075",20,5739.00,67,Sufficient,22.99511077,Yes,4,No
+Uttar Pradesh,Kannauj,Low,"280,928","1,656,616",20,2093.00,78,Inadequate,23.16592819,No,6,No
+Tamil Nadu,Kanniyakumari,High,"483,539","1,870,374",19,1684.00,95,Inadequate,23.33674561,Yes,7,No
+Kerala,Kannur,Low,"554,298","2,523,003",21,2961.00,41,Inadequate,23.50756303,Yes,6,No
+Uttar Pradesh,Kanpur Dehat,Low,"329,817","1,796,184",20,3021.00,56,Inadequate,23.67838044,No,8,No
+Uttar Pradesh,Kanpur Nagar,Low,"863,338","4,581,268",20,3155.00,56,Overburdened,23.84919786,Yes,4,Yes
+Uttar Pradesh,Kanshiram Nagar,Low,"237,903","1,436,719",16,1955.00,67,Sufficient,24.02001528,No,7,No
+Punjab,Kapurthala ,Low,"167,989","815,168",19,1633.00,56,Overburdened,24.1908327,No,2,No
+Puducherry,Karaikal,Low,"49,705","200,222",13,157.00,67,Overburdened,24.36165011,Yes,5,No
+Rajasthan,Karauli,Low,"262,503","1,458,248",19,5524.00,70,Inadequate,24.53246753,No,6,No
+Assam,Karbi Anglong,Medium,"177,646","956,313",11,10434.00,61,Inadequate,24.70328495,No,8,No
+Ladakh,Kargil,Low,"18,338","140,802",23,14036.00,143,Inadequate,24.87410237,No,4,No
+Assam,Karimganj,Medium,"247,714","1,228,686",26,1809.00,167,Sufficient,25.04491979,No,7,No
+Telangana,Karimnagar,Low,"976,022","3,776,269",14,11823.00,78,Inadequate,25.2157372,No,5,No
+Haryana,Karnal,Low,"292,084","1,505,324",20,2520.00,165,Overburdened,25.38655462,No,8,No
+Tamil Nadu,Karur ,Medium,"287,095","1,064,493",25,2904.00,15,Inadequate,25.55737204,Yes,5,No
+Kerala,Kasaragod,Medium,"273,410","1,307,375",16,1989.00,167,Sufficient,25.72818946,Yes,7,No
+Jammu and Kashmir,Kathua,Low,"119,583","616,435",25,2502.00,67,Sufficient,25.89900688,No,4,No
+Bihar,Katihar,Medium,"619,076","3,071,029",20,3057.00,67,Inadequate,26.06982429,No,6,No
+Madhya Pradesh,Katni ,Medium,"289,551","1,292,042",19,4950.00,98,Overburdened,26.24064171,No,3,No
+Uttar Pradesh,Kaushambi,Low,"277,851","1,599,596",11,1779.00,123,Overburdened,26.41145913,No,4,No
+Odisha,Kendrapara ,High,"321,934","1,440,361",23,2644.00,143,Sufficient,26.58227655,No,5,No
+Odisha,Kendujhar,Low,"405,272","1,801,733",26,8303.00,156,Overburdened,26.75309396,No,2,No
+Bihar,Khagaria,High,"328,823","1,666,886",14,1486.00,17,Inadequate,26.92391138,No,6,No
+Telangana,Khammam,Medium,"754,034","2,797,370",20,16029.00,25,Overburdened,27.0947288,No,4,No
+Madhya Pradesh,Khandwa (East Nimar),Low,"266,655","1,310,061",25,7352.00,67,Overburdened,27.26554622,Yes,5,No
+Madhya Pradesh,Khargone (West Nimar),Low,"367,988","1,873,046",16,8025.00,45,Overburdened,27.43636364,No,8,No
+Gujarat,Kheda,Medium,"466,856","2,299,885",25,3953.00,31,Sufficient,27.60718105,Yes,6,No
+Uttar Pradesh,Kheri,Medium,"745,077","4,021,243",20,7680.00,43,Sufficient,27.77799847,No,4,No
+Odisha,Khordha ,Medium,"494,212","2,251,673",20,2813.00,92,Sufficient,27.94881589,Yes,7,No
+Jharkhand,Khunti,Low,"103,700","531,885",16,2535.00,42,Overburdened,28.11963331,No,8,No
+Himachal Pradesh,Kinnaur,Low,"19,976","84,121",25,6401.00,65,Inadequate,28.29045073,No,3,No
+Nagaland,Kiphire,High,"14,771","74,004",20,1130.00,72,Sufficient,28.46126814,No,5,No
+Bihar,Kishanganj,Low,"338,445","1,690,400",23,1884.00,181,Inadequate,28.63208556,No,6,No
+Jammu and Kashmir,Kishtwar,Medium,"45,209","230,696",15,1644.00,61,Overburdened,28.80290298,No,7,No
+West Bengal,Koch Bihar ,High,"665,720","2,819,086",18,3387.00,78,Inadequate,28.9737204,No,3,No
+Karnataka,Kodagu,High,"142,716","554,519",20,4102.00,67,Sufficient,29.14453782,Yes,4,No
+Jharkhand,Kodarma,Medium,"116,155","716,259",20,2540.00,43,Inadequate,29.31535523,No,6,No
+Nagaland,Kohima,Medium,"54,391","267,988",17,1463.00,87,Inadequate,29.48617265,Yes,7,No
+Assam,Kokrajhar,Medium,"181,081","887,142",20,3296.00,123,Overburdened,29.65699007,No,4,No
+Karnataka,Kolar,Low,"333,348","1,536,401",14,3979.00,165,Inadequate,29.82780749,Yes,6,No
+Mizoram,Kolasib,Medium,"17,270","83,955",14,1382.00,80,Inadequate,29.9986249,No,5,No
+Maharashtra,Kolhapur,Medium,"840,240","3,876,001",20,7685.00,76,Inadequate,30.16944232,Yes,6,No
+West Bengal,Kolkata,High,"1,024,928","4,496,694",20,185.00,78,Sufficient,30.34025974,Yes,8,Yes
+Kerala,Kollam,Medium,"669,375","2,635,375",19,2483.00,54,Overburdened,30.51107716,Yes,4,No
+Karnataka,Koppal,Medium,"264,595","1,389,920",20,5570.00,167,Sufficient,30.68189458,No,5,No
+Odisha,Koraput,High,"337,677","1,379,647",23,8807.00,14,Sufficient,30.85271199,No,3,No
+Chhattisgarh,Korba ,Medium,"280,073","1,206,640",15,6598.00,103,Sufficient,31.02352941,No,7,No
+Chhattisgarh,Koriya,Medium,"153,274","658,917",15,6604.00,34,Inadequate,31.19434683,No,8,No
+Rajasthan,Kota,Medium,"396,501","1,951,014",23,5217.00,140,Inadequate,31.36516425,Yes,5,No
+Kerala,Kottayam,Medium,"487,296","1,974,551",15,2206.00,48,Inadequate,31.53598167,Yes,5,No
+Kerala,Kozhikode,High,"697,710","3,086,293",15,2345.00,46,Inadequate,31.70679908,Yes,6,No
+Andhra Pradesh,Krishna,Medium,"1,243,293","4,517,398",25,8727.00,27,Overburdened,31.8776165,Yes,7,Yes
+Tamil Nadu,Krishnagiri,Medium,"448,053","1,879,809",19,5129.00,59,Sufficient,32.04843392,Yes,12,No
+Jammu and Kashmir,Kulgam,Medium,"73,728","424,483",20,410.00,87,Overburdened,32.21925134,No,4,No
+Himachal Pradesh,Kullu,High,"94,807","437,903",23,5503.00,56,Overburdened,32.39006875,No,5,No
+Jammu and Kashmir,Kupwara,High,"113,929","870,354",15,2379.00,32,Inadequate,32.56088617,No,6,No
+Andhra Pradesh,Kurnool,High,"887,652","4,053,463",15,17658.00,28,Inadequate,32.73170359,Yes,7,No
+Haryana,Kurukshetra,Medium,"188,143","964,655",25,1530.00,94,Inadequate,32.90252101,No,3,No
+Arunachal Pradesh,Kurung Kumey,Medium,"15,037","92,076",11,6040.00,165,Sufficient,33.07333843,No,4,No
+Uttar Pradesh,Kushinagar,High,"561,062","3,564,544",20,2905.00,43,Inadequate,33.24415584,No,6,No
+Himachal Pradesh,Lahul & Spiti,Low,"6,674","31,564",19,13841.00,15,Overburdened,33.41497326,No,8,No
+Assam,Lakhimpur,High,"204,307","1,042,137",16,2277.00,92,Inadequate,33.58579068,No,4,No
+Bihar,Lakhisarai,Medium,"163,355","1,000,912",23,1228.00,165,Sufficient,33.7566081,No,5,No
+Lakshadweep,Lakshadweep,Low,"11,574","64,473",21,30.00,61,Sufficient,33.92742552,Yes,6,No
+Uttar Pradesh,Lalitpur,Low,"222,094","1,221,592",16,5039.00,57,Inadequate,34.09824293,No,3,No
+Jharkhand,Latehar,Medium,"133,381","726,978",5,4291.00,78,Overburdened,34.26906035,No,2,No
+Maharashtra,Latur,Medium,"481,572","2,454,196",20,7157.00,58,Overburdened,34.43987777,Yes,5,No
+Mizoram,Lawngtlai,Medium,"22,984","117,894",20,2557.00,91,Sufficient,34.61069519,No,6,No
+Ladakh,Leh(Ladakh),Medium,"21,909","133,487",20,45110.00,51,Overburdened,34.78151261,Yes,8,No
+Jharkhand,Lohardaga,Low,"88,638","461,790",19,1502.00,27,Inadequate,34.95233002,No,3,No
+Arunachal Pradesh,Lohit,High,"30,005","145,726",21,5212.00,89,Overburdened,35.12314744,No,5,No
+Nagaland,Longleng,Low,"11,985","50,484",20,562.00,15,Overburdened,35.29396486,No,8,No
+Arunachal Pradesh,Lower Dibang Valley,High,"11,600","54,080",20,3900.00,15,Overburdened,35.46478228,No,6,No
+Arunachal Pradesh,Lower Subansiri,Medium,"15,249","83,030",16,3508.00,15,Sufficient,35.63559969,No,4,No
+Uttar Pradesh,Lucknow,Medium,"860,703","4,589,838",19,2528.00,173,Sufficient,35.80641711,Yes,7,Yes
+Punjab,Ludhiana,Low,"716,826","3,498,739",13,3578.00,248,Sufficient,12,Yes,5,Yes
+Mizoram,Lunglei,Medium,"33,058","161,428",11,4536.00,39,Overburdened,4,No,3,No
+Bihar,Madhepura,High,"401,289","2,001,762",20,1788.00,67,Inadequate,5,No,6,No
+Bihar,Madhubani,High,"898,515","4,487,379",19,3501.00,56,Sufficient,8,No,7,No
+Tamil Nadu,Madurai,Low,"794,887","3,038,252",16,3710.00,43,Inadequate,11,Yes,8,Yes
+Uttar Pradesh,Mahamaya Nagar,Low,"260,860","1,564,708",23,1840.00,68,Overburdened,12,No,9,No
+Chhattisgarh,Mahasamund,Low,"248,561","1,032,754",21,4790.00,81,Inadequate,13,No,3,No
+Telangana,Mahbubnagar,Low,"869,451","4,053,028",16,18432.00,98,Sufficient,8,Yes,5,No
+Puducherry,Mahe,Low,"7,420","41,816",5,9.00,65,Inadequate,9,Yes,6,No
+Haryana,Mahendragarh,Medium,"171,712","922,088",20,1899.00,31,Inadequate,11,No,12,No
+Gujarat,Mahesana,Low,"424,479","2,035,064",20,4401.00,51,Overburdened,2,Yes,14,No
+Uttar Pradesh,Mahoba,Low,"158,435","875,958",20,3144.00,52,Inadequate,3,No,5,No
+Uttar Pradesh,Mahrajganj,Low,"426,565","2,684,703",19,2952.00,76,Inadequate,12,No,3,No
+Uttar Pradesh,Mainpuri,Low,"313,690","1,868,529",21,2760.00,67,Inadequate,18,No,2,No
+Kerala,Malappuram,Medium,"793,999","4,112,920",20,3554.00,30,Sufficient,10.65934066,Yes,5,No
+West Bengal,Maldah ,High,"846,991","3,988,845",20,3733.00,41,Overburdened,10.86153846,No,6,No
+Odisha,Malkangiri  ,High,"137,599","613,192",16,5791.00,42,Sufficient,11.06373626,No,7,No
+Mizoram,Mamit,High,"17,731","86,364",19,3025.00,56,Sufficient,11.26593407,No,9,No
+Himachal Pradesh,Mandi,High,"219,145","999,777",13,3950.00,67,Sufficient,11.46813187,No,2,No
+Madhya Pradesh,Mandla,Medium,"250,146","1,054,905",19,5800.00,87,Inadequate,11.67032967,No,4,No
+Madhya Pradesh,Mandsaur,Medium,"286,808","1,340,411",11,5535.00,87,Inadequate,11.87252747,No,6,No
+Karnataka,Mandya,Medium,"428,625","1,805,769",23,4962.00,42,Inadequate,12.07472527,Yes,4,No
+Punjab,Mansa,Low,"149,630","769,751",26,2198.00,141,Inadequate,12.27692308,No,7,No
+Uttar Pradesh,Mathura,Medium,"423,125","2,547,184",14,3340.00,228,Overburdened,12.47912088,Yes,8,No
+Uttar Pradesh,Mau,Medium,"324,424","2,205,968",20,1713.00,13,Sufficient,12.68131868,No,2,No
+Odisha,Mayurbhanj,High,"586,253","2,519,738",25,10418.00,49,Overburdened,12.88351648,No,5,No
+Telangana,Medak,Low,"668,626","3,033,288",16,9699.00,52,Overburdened,13.08571429,No,6,Yes
+Uttar Pradesh,Meerut,Medium,"579,110","3,443,689",25,2559.00,117,Inadequate,13.28791209,Yes,7,Yes
+Haryana,Mewat ,Low,"160,280","1,089,263",20,1507.00,165,Inadequate,13.49010989,No,8,Yes
+Uttar Pradesh,Mirzapur,Medium,"394,925","2,496,970",20,4405.00,179,Inadequate,13.69230769,No,4,No
+Punjab,Moga,Low,"193,256","995,746",16,2242.00,42,Sufficient,13.89450549,No,5,No
+Nagaland,Mokokchung,Medium,"42,690","194,622",25,1615.00,167,Inadequate,14.0967033,No,12,No
+Nagaland,Mon,Medium,"41,978","250,260",20,1786.00,78,Overburdened,14.2989011,No,3,No
+Uttar Pradesh,Moradabad,Low,"796,170","4,772,006",23,3718.00,127,Inadequate,14.5010989,Yes,13,Yes
+Madhya Pradesh,Morena,Low,"362,646","1,965,970",15,4989.00,67,Sufficient,14.7032967,No,4,No
+Assam,Morigaon,High,"184,602","957,423",18,1551.00,41,Sufficient,14.90549451,No,14,No
+Punjab,Muktsar,Low,"174,360","901,896",20,2593.00,54,Inadequate,15.10769231,No,5,Yes
+Maharashtra,Mumbai,High,"674,339","3,085,411",20,157.00,197,Overburdened,15.30989011,Yes,6,Yes
+Maharashtra,Mumbai Suburban,High,"2,105,604","9,356,962",17,446.00,250,Overburdened,15.51208791,Yes,7,Yes
+Bihar,Munger,Medium,"263,171","1,367,765",20,1419.00,90,Sufficient,15.71428571,No,8,No
+West Bengal,Murshidabad ,High,"1,570,759","7,103,807",14,5324.00,51,Overburdened,15.91648352,No,9,Yes
+Uttar Pradesh,Muzaffarnagar,Low,"676,642","4,143,512",14,4008.00,87,Inadequate,16.11868132,Yes,12,Yes
+Bihar,Muzaffarpur,High,"945,703","4,801,062",20,3172.00,178,Overburdened,16.32087912,No,5,No
+Karnataka,Mysore,Low,"700,968","3,001,127",20,6307.00,65,Overburdened,16.52307692,Yes,12,No
+Odisha,Nabarangapur ,Medium,"273,423","1,220,946",19,5291.00,142,Overburdened,16.72527473,No,6,No
+West Bengal,Nadia ,Medium,"1,232,282","5,167,600",20,3927.00,52,Sufficient,16.92747253,No,5,No
+Assam,Nagaon,High,"559,340","2,823,768",23,3973.00,78,Sufficient,17.12967033,No,6,No
+Tamil Nadu,Nagapattinam  ,High,"413,837","1,616,450",15,2569.00,167,Sufficient,17.33186813,Yes,8,No
+Rajasthan,Nagaur,Medium,"578,809","3,307,743",15,17718.00,45,Overburdened,17.53406593,No,12,Yes
+Maharashtra,Nagpur,Medium,"1,041,544","4,653,570",25,9892.00,102,Inadequate,17.73626374,Yes,11,Yes
+Uttarakhand,Nainital,Medium,"191,383","954,605",11,4251.00,56,Sufficient,17.93846154,No,13,No
+Bihar,Nalanda,Medium,"477,529","2,877,653",20,2355.00,178,Inadequate,18.14065934,No,6,No
+Assam,Nalbari,High,"155,248","771,639",19,1052.00,42,Overburdened,18.34285714,No,7,No
+Telangana,Nalgonda,Low,"875,939","3,488,809",16,14240.00,81,Inadequate,18.54505495,Yes,8,No
+Tamil Nadu,Namakkal   ,Low,"475,511","1,726,601",23,3420.00,89,Sufficient,18.74725275,Yes,9,Yes
+Maharashtra,Nanded,Medium,"665,434","3,361,292",21,10528.00,91,Inadequate,11,Yes,3,No
+Maharashtra,Nandurbar,Low,"323,521","1,648,295",16,5955.00,41,Inadequate,9,No,4,Yes
+Chhattisgarh,Narayanpur,Medium,"27,982","139,820",5,4653.00,52,Overburdened,11,No,5,No
+Gujarat,Narmada,Medium,"122,174","590,297",20,2817.00,166,Inadequate,11,No,6,No
+Madhya Pradesh,Narsimhapur,Medium,"250,286","1,091,854",20,5133.00,154,Inadequate,12,No,8,No
+Maharashtra,Nashik,Medium,"1,222,887","6,107,187",20,15530.00,98,Inadequate,22,Yes,9,Yes
+Gujarat,Navsari  ,Medium,"295,131","1,329,672",19,2246.00,132,Sufficient,19,Yes,5,No
+Bihar,Nawada,Low,"338,247","2,219,146",21,2494.00,147,Overburdened,12,No,12,No
+Odisha,Nayagarh  ,Medium,"228,315","962,789",20,3890.00,62,Sufficient,2,No,5,No
+Madhya Pradesh,Neemuch ,Medium,"179,746","826,067",20,4256.00,78,Sufficient,6,No,11,No
+Delhi,New Delhi,Medium,"33,208","142,004",16,35.00,198,Sufficient,38,Yes,12,Yes
+Andhra Pradesh,Nellore,High,"776,854","2,963,557",19,13076.00,75,Inadequate,16,Yes,4,No
+Telangana,Nizamabad,Low,"593,234","2,551,335",13,7956.00,67,Inadequate,16,Yes,6,Yes
+Andaman and Nicobar Islands,Nicobars,High,"9,288","36,842",19,1841.00,154,Inadequate,21,No,7,No
+Goa,North Goa,Medium,"191,766","818,008",11,1736.00,98,Inadequate,12,Yes,4,Yes
+Andaman and Nicobar Islands,North  & Middle Andaman,High,"26,199","105,597",23,3736.00,65,Overburdened,17,No,12,No
+Tripura,North Tripura,High,"152,355","693,947",26,2036.00,21,Sufficient,6,No,11,No
+West Bengal,North Twenty Four Parganas,High,"2,348,683","10,009,781",14,4094.00,21,Overburdened,8,Yes,4,No
+Odisha,Nuapada,High,"152,210","610,382",20,3852.00,78,Overburdened,5,No,5,No
+Jharkhand,Pakur,Low,"182,317","900,422",25,1811.00,67,Inadequate,4,No,6,Yes
+Kerala,Palakkad,Low,"637,220","2,809,934",16,4482.00,23,Inadequate,7,Yes,7,Yes
+Maharashtra,Osmanabad,High,"351,281","1,657,576",25,7569.00,45,Inadequate,8,Yes,8,No
+Rajasthan,Pali,Low,"418,157","2,037,573",20,12387.00,123,Sufficient,3,No,3,Yes
+Jharkhand,Palamu,Low,"358,754","1,939,869",19,4393.00,88,Inadequate,7,No,4,No
+Gujarat,Panch Mahals,Low,"446,611","2,390,776",11,5231.00,70,Overburdened,9,No,5,Yes
+Haryana,Palwal ,Medium,"171,157","1,042,708",23,1359.00,65,Inadequate,12,Yes,6,No
+Haryana,Panchkula,Medium,"117,107","561,293",26,898.00,35,Sufficient,2,Yes,8,No
+Haryana,Panipat,Medium,"235,640","1,205,437",14,1268.00,65,Sufficient,3,Yes,9,No
+Madhya Pradesh,Panna,Low,"228,709","1,016,520",20,7135.00,123,Inadequate,4,No,0,No
+Arunachal Pradesh,Papum Pare,Medium,"35,730","176,573",25,3462.00,76,Overburdened,6,No,12,No
+Maharashtra,Parbhani,Medium,"361,130","1,836,086",16,6214.00,181,Overburdened,2,Yes,6,No
+West Bengal,Paschim Medinipur,Medium,"1,301,610","5,913,457",25,9368.00,95,Sufficient,8,No,8,No
+Bihar,Pashchim Champaran,High,"710,461","3,935,042",20,5228.00,94,Overburdened,5.05,No,11,No
+Jharkhand,Pashchimi Singhbhum,Medium,"302,046","1,502,338",20,7224.00,265,Inadequate,4.952941176,No,12,No
+Kerala,Pathanamthitta,High,"322,684","1,197,412",16,2652.00,22,Overburdened,4.855882353,Yes,5,Yes
+Gujarat,Patan  ,Medium,"267,633","1,343,734",25,5792.00,145,Overburdened,4.758823529,Yes,6,No
+Punjab,Patiala,Medium,"372,293","1,895,686",20,3325.00,96,Overburdened,4.661764706,Yes,4,No
+Tamil Nadu,Perambalur  ,Low,"149,243","565,223",23,1756.00,195,Sufficient,4.564705882,Yes,7,Yes
+Bihar,Patna,High,"975,578","5,838,465",15,3202.00,176,Sufficient,4.467647059,Yes,8,No
+Nagaland,Phek,High,"36,639","163,418",18,2026.00,45,Sufficient,4.370588235,No,9,Yes
+Nagaland,Peren,Low,"18,475","95,219",20,1651.00,70,Overburdened,4.273529412,No,3,No
+Uttar Pradesh,Pilibhit,Low,"362,573","2,031,007",20,3686.00,61,Inadequate,4.176470588,No,4,No
+Uttarakhand,Pithoragarh,Medium,"114,730","483,439",17,7090.00,62,Sufficient,4.079411765,No,5,No
+Gujarat,Porbandar ,Medium,"124,556","585,449",20,2316.00,67,Inadequate,3.982352941,Yes,6,No
+Andhra Pradesh,Prakasam,Medium,"860,463","3,397,448",14,17626.00,79,Overburdened,3.885294118,Yes,8,No
+Rajasthan,Pratapgarh,Medium,"178,726","867,848",14,4449.00,156,Inadequate,3.788235294,No,12,No
+Rajasthan,Pratapgarh,Medium,"533,546","3,209,141",20,3717.00,142,Sufficient,3.691176471,No,12,No
+Puducherry,Puducherry,Low,"231,513","950,289",20,294.00,155,Inadequate,3.594117647,Yes,11,No
+Tamil Nadu,Pudukkottai,Low,"387,679","1,618,345",19,4644.00,156,Inadequate,3.497058824,No,6,No
+Jammu and Kashmir,Pulwama,Medium,"86,241","560,440",20,1086.00,58,Overburdened,3.4,No,4,No
+Maharashtra,Pune,Medium,"2,151,503","9,429,408",23,15643.00,280,Inadequate,3.302941176,Yes,5,Yes
+Jammu and Kashmir,Punch,Medium,"90,261","476,835",15,1674.00,180,Inadequate,3.205882353,No,6,No
+Bihar,Purba Champaran,Low,"981,516","5,099,371",16,3968.00,165,Inadequate,3.108823529,No,7,No
+West Bengal,Purba Medinipur,High,"1,114,170","5,095,875",25,4713.00,187,Sufficient,3.011764706,No,8,No
+Jharkhand,Purbi Singhbhum,Medium,"476,931","2,293,919",20,3562.00,152,Overburdened,2.914705882,No,9,No
+Odisha,Puri,High,"367,269","1,698,730",23,3479.00,88,Sufficient,2.817647059,Yes,12,No
+Bihar,Purnia,High,"647,777","3,264,619",15,3229.00,67,Sufficient,2.720588235,No,5,No
+Uttar Pradesh,Rae Bareli,Low,"619,707","3,405,559",18,4609.00,61,Sufficient,2.623529412,Yes,6,Yes
+West Bengal,Puruliya,Medium,"567,824","2,930,115",20,6259.00,61,Inadequate,2.526470588,No,7,No
+Karnataka,Raichur,Low,"363,853","1,928,812",20,8442.00,142,Inadequate,2.429411765,No,11,No
+Chhattisgarh,Raigarh,High,"367,962","1,493,984",17,7086.00,76,Inadequate,2.332352941,No,12,No
+Maharashtra,Raigarh,High,"611,790","2,634,200",20,7152.00,65,Inadequate,12,No,5,No
+Chhattisgarh,Raipur,High,"871,225","4,063,872",14,12383.00,280,Overburdened,13,Yes,6,No
+Madhya Pradesh,Raisen,Medium,"278,895","1,331,597",14,8466.00,156,Sufficient,5,No,4,No
+Madhya Pradesh,Rajgarh,Medium,"345,297","1,545,814",20,6153.00,90,Overburdened,7,No,7,No
+Chhattisgarh,Rajnandgaon,Medium,"318,488","1,537,133",20,8070.00,167,Overburdened,11,Yes,8,Yes
+Gujarat,Rajkot,Medium,"786,586","3,804,558",19,11198.00,107,Inadequate,8,Yes,3,No
+Jammu and Kashmir,Rajouri,High,"130,401","642,415",20,2630.00,132,Inadequate,9,No,11,No
+Rajasthan,Rajsamand,Medium,"243,078","1,156,597",23,4655.00,45,Inadequate,11,No,12,No
+Karnataka,Ramanagara,Medium,"260,533","1,082,636",15,3516.00,66,Sufficient,12,No,11,No
+Tamil Nadu,Ramanathapuram,Medium,"323,905","1,353,445",15,4104.00,98,Inadequate,4,No,14,No
+Jammu and Kashmir,Ramban,High,"55,490","283,713",23,1329.00,132,Overburdened,12,No,6,No
+Jharkhand,Ramgarh,Medium,"179,375","949,443",15,1341.00,65,Inadequate,11,No,8,No
+Uttar Pradesh,Rampur,Medium,"393,736","2,335,819",15,2367.00,71,Sufficient,9,No,5,No
+Jharkhand,Ranchi,High,"569,444","2,914,253",25,5097.00,178,Sufficient,11,Yes,8,No
+Telangana,Rangareddy,Medium,"1,235,341","5,296,741",19,7493.00,87,Inadequate,12,Yes,6,No
+Madhya Pradesh,Ratlam,Medium,"296,683","1,455,069",20,4861.00,91,Overburdened,14,No,7,No
+Odisha,Rayagada  ,Low,"226,144","967,911",23,7073.00,156,Overburdened,17,No,8,Yes
+Maharashtra,Ratnagiri,High,"397,115","1,615,069",15,8208.00,189,Sufficient,12.875,Yes,9,No
+Madhya Pradesh,Rewa,Low,"526,065","2,365,106",15,6314.00,52,Overburdened,13.14215686,Yes,12,Yes
+Jammu and Kashmir,Reasi,Medium,"56,689","314,667",25,1719.00,72,Inadequate,13.40931373,No,18,No
+Haryana,Rewari,Medium,"178,043","900,332",11,1594.00,51,Overburdened,13.67647059,No,12,No
+Meghalaya,Ribhoi,High,"46,872","258,840",20,2448.00,78,Overburdened,13.94362745,No,4,No
+Haryana,Rohtak,Medium,"206,988","1,061,204",19,1745.00,339,Overburdened,14.21078431,Yes,5,No
+Bihar,Rohtas,High,"460,345","2,959,918",16,3881.00,98,Sufficient,14.47794118,No,6,No
+Uttarakhand,Rudraprayag,High,"53,542","242,285",23,1984.00,142,Sufficient,14.74509804,No,7,No
+Punjab,Rupnagar,Medium,"135,635","684,627",21,1356.00,153,Sufficient,15.0122549,No,8,No
+Gujarat,Sabar Kantha,Low,"481,414","2,428,589",16,7394.00,155,Overburdened,15.27941176,No,8,No
+Uttar Pradesh,Saharanpur,Medium,"597,656","3,466,382",5,3689.00,38,Inadequate,15.54656863,Yes,4,Yes
+Madhya Pradesh,Sagar,Medium,"517,850","2,378,458",20,10252.00,85,Sufficient,15.81372549,No,5,No
+Bihar,Saharsa,High,"368,979","1,900,661",20,1687.00,145,Inadequate,16.08088235,No,6,No
+Jharkhand,Sahibganj,Medium,"227,023","1,150,567",20,2063.00,76,Overburdened,16.34803922,No,3,No
+Punjab,Sahibzada Ajit Singh Nagar,Low,"205,411","994,628",19,1094.00,89,Inadequate,16.61519608,Yes,7,No
+Tamil Nadu,Salem,Medium,"915,967","3,482,056",21,5237.00,72,Sufficient,16.88235294,Yes,5,Yes
+Mizoram,Saiha,Low,"11,144","56,574",20,1399.00,76,Inadequate,17.1495098,No,4,No
+Bihar,Samastipur,High,"835,493","4,261,566",20,2904.00,41,Inadequate,17.41666667,No,7,No
+Jammu and Kashmir,Samba,Medium,"65,385","318,898",16,904.00,177,Overburdened,17.68382353,No,5,No
+Odisha,Sambalpur,High,"249,597","1,041,099",19,6624.00,172,Inadequate,17.95098039,No,2,No
+Maharashtra,Sangli,Medium,"598,386","2,822,143",13,8572.00,67,Inadequate,18.21813725,Yes,8,No
+Punjab,Sangrur,Medium,"318,870","1,655,169",11,3625.00,181,Inadequate,18.48529412,No,5,No
+Uttar Pradesh,Sant Kabir Nagar,High,"256,645","1,715,183",20,1646.00,172,Sufficient,18.75245098,No,7,No
+Uttar Pradesh,Sant Ravidas Nagar (Bhadohi),Medium,"222,403","1,578,213",19,1015.00,67,Overburdened,19.01960784,No,12,No
+Jharkhand,Saraikela-Kharsawan,High,"221,232","1,065,056",16,2657.00,61,Sufficient,19.28676471,No,12,No
+Bihar,Saran,Low,"631,097","3,951,862",23,2641.00,81,Sufficient,19.55392157,No,2,No
+Madhya Pradesh,Satna,Low,"478,741","2,228,935",21,7502.00,92,Sufficient,19.82107843,No,14,Yes
+Maharashtra,Satara,Medium,"653,735","3,003,741",16,10480.00,97,Inadequate,20.08823529,Yes,16,No
+Rajasthan,Sawai Madhopur,Medium,"254,716","1,335,551",5,4498.00,174,Inadequate,20.35539216,No,6,No
+Madhya Pradesh,Sehore,Medium,"257,311","1,311,332",20,6578.00,182,Inadequate,20.62254902,No,8,No
+Manipur,Senapati,Low,"83,411","479,148",20,3271.00,85,Inadequate,20.88970588,No,9,No
+Mizoram,Serchhip,Low,"12,622","64,937",20,1421.00,72,Overburdened,21.15686275,No,12,Yes
+Madhya Pradesh,Seoni,Medium,"314,767","1,379,131",19,8758.00,21,Sufficient,21.42401961,No,4,No
+Madhya Pradesh,Shahdol,High,"251,452","1,066,063",21,6205.00,75,Overburdened,21.69117647,No,5,No
+Punjab,Shahid Bhagat Singh Nagar ,Low,"129,500","612,310",20,1282.00,187,Overburdened,21.95833333,No,12,No
+Uttar Pradesh,Shahjahanpur,High,"527,501","3,006,538",20,4388.00,27,Inadequate,22.2254902,No,2,No
+Madhya Pradesh,Shajapur,Medium,"300,025","1,512,681",16,6195.00,79,Inadequate,22.49264706,No,12,No
+Bihar,Sheikhpura,Medium,"100,701","636,342",19,689.00,146,Inadequate,22.75980392,No,3,No
+Madhya Pradesh,Sheopur ,Low,"146,043","687,861",13,6606.00,112,Sufficient,23.02696078,No,12,Yes
+Bihar,Sheohar,High,"150,144","656,246",19,349.00,197,Inadequate,23.29411765,No,5,No
+Himachal Pradesh,Shimla,Medium,"184,362","814,010",11,5131.00,54,Overburdened,23.56127451,Yes,8,No
+Karnataka,Shimoga,Medium,"406,816","1,752,753",23,8478.00,56,Inadequate,23.82843137,Yes,9,No
+Uttar Pradesh,Shrawasti,Low,"188,289","1,117,361",26,1640.00,156,Sufficient,24.09558824,No,4,Yes
+Madhya Pradesh,Shivpuri,Medium,"359,969","1,726,050",14,10066.00,110,Sufficient,24.3627451,No,5,No
+Jammu and Kashmir,Shupiyan,Low,"44,411","266,215",20,312.00,105,Inadequate,24.62990196,No,7,No
+Uttar Pradesh,Siddharthnagar,Medium,"379,351","2,559,297",25,2895.00,190,Overburdened,24.89705882,No,8,No
+Madhya Pradesh,Sidhi,Medium,"238,448","1,127,033",16,4851.00,72,Overburdened,25.16421569,No,5,No
+Rajasthan,Sikar,Medium,"444,816","2,677,333",25,7732.00,124,Sufficient,25.43137255,No,6,No
+Jharkhand,Simdega,Medium,"118,288","599,578",20,3774.00,80,Overburdened,25.69852941,No,7,No
+Maharashtra,Sindhudurg,Medium,"209,839","849,651",20,5207.00,60,Inadequate,25.96568627,Yes,8,No
+Madhya Pradesh,Singrauli,Medium,"243,925","1,178,273",16,5675.00,232,Overburdened,26.23284314,No,12,No
+Himachal Pradesh,Sirmaur,Medium,"98,208","529,855",25,2825.00,73,Overburdened,26.5,No,6,No
+Rajasthan,Sirohi,Medium,"201,785","1,036,346",20,5136.00,129,Overburdened,26.76715686,No,7,No
+Haryana,Sirsa,Medium,"246,571","1,295,189",23,4277.00,141,Sufficient,27.03431373,No,8,No
+Uttar Pradesh,Sitapur,Medium,"801,764","4,483,992",15,5743.00,137,Sufficient,27.30147059,No,9,Yes
+Bihar,Sitamarhi,High,"736,322","3,423,574",18,2294.00,190,Sufficient,27.56862745,No,4,No
+Assam,Sivasagar,High,"248,367","1,151,050",20,2668.00,156,Overburdened,27.83578431,No,5,Yes
+Tamil Nadu,Sivaganga,Medium,"338,938","1,339,101",20,4233.00,29,Inadequate,28.10294118,No,2,No
+Bihar,Siwan,Medium,"535,661","3,330,464",17,2219.00,158,Sufficient,28.37009804,No,4,No
+Himachal Pradesh,Solan,Medium,"122,425","580,320",20,1936.00,101,Inadequate,28.6372549,No,5,No
+Maharashtra,Solapur,Medium,"873,167","4,317,756",14,14895.00,89,Overburdened,28.90441176,Yes,3,No
+Uttar Pradesh,Sonbhadra,Medium,"333,174","1,862,559",14,6905.00,149,Inadequate,29.17156863,No,6,No
+Haryana,Sonipat,Medium,"277,726","1,450,001",20,2122.00,325,Sufficient,29.43872549,Yes,8,No
+Assam,Sonitpur,High,"392,919","1,924,110",20,5204.00,43,Inadequate,29.70588235,No,2,No
+Andaman and Nicobar Islands,South Andaman,Medium,"59,064","238,142",19,2672.00,15,Inadequate,29.97303922,Yes,4,No
+Meghalaya,South Garo Hills,Medium,"24,527","142,334",20,1887.00,23,Overburdened,30.24019608,No,5,No
+Goa,South Goa,Medium,"151,845","640,537",23,1966.00,98,Inadequate,30.50735294,Yes,6,No
+Tripura,South Tripura ,Medium,"208,127","876,001",15,3057.00,48,Inadequate,30.7745098,No,3,No
+West Bengal,South Twenty Four Parganas,High,"1,781,221","8,161,961",15,9960,175,Overburdened,13,Yes,7,Yes
+Andhra Pradesh,Srikakulam,High,"681,330","2,703,114",25,5837.00,49,Inadequate,31.04166667,No,7,No
+Jammu and Kashmir,Srinagar,High,"191,678","1,236,829",11,1979.00,131,Sufficient,31.30882353,Yes,8,No
+Odisha,Subarnapur,Medium,"151,136","610,183",20,2337.00,113,Overburdened,31.57598039,No,4,No
+Uttar Pradesh,Sultanpur,Medium,"623,523","3,797,117",19,4436.00,159,Sufficient,31.84313725,No,8,No
+Odisha,Sundargarh,High,"479,109","2,093,437",16,9712.00,141,Sufficient,32.11029412,No,4,No
+Bihar,Supaul,High,"443,073","2,229,076",23,2425.00,210,Sufficient,32.37745098,No,5,No
+Gujarat,Surat,Medium,"1,333,200","6,081,322",21,4549.00,78,Inadequate,32.64460784,Yes,7,Yes
+Gujarat,Surendranagar,Medium,"343,213","1,756,268",16,10423.00,39,Inadequate,32.91176471,Yes,4,No
+Chhattisgarh,Surguja,High,"526,049","2,359,886",5,15732.00,115,Inadequate,33.17892157,No,8,No
+Manipur,Tamenglong ,Medium,"25,039","140,651",20,4391.00,31,Inadequate,33.44607843,No,5,No
+Karnataka,Tapihalli,Low,"177,091","807,022",20,3139.00,34,Overburdened,33.71323529,No,6,No
+Punjab,Tarn Taran,Medium,"203,421","1,119,627",20,2414.00,128,Sufficient,33.98039216,No,7,No
+Arunachal Pradesh,Tawang,Medium,"10,062","49,977",19,2172.00,21,Overburdened,34.24754902,No,8,No
+Uttarakhand,Tehri Garhwal,Medium,"132,714","618,931",21,3642.00,63,Overburdened,34.51470588,No,12,No
+Maharashtra,Thane,Medium,"2,529,165","11,060,148",20,9558.00,64,Inadequate,34.78186275,Yes,4,Yes
+Tamil Nadu,Thanjavur,Medium,"605,363","2,405,890",20,3411.00,39,Inadequate,35.04901961,Yes,5,No
+Gujarat,The Dangs,Medium,"44,699","228,291",16,1766.00,46,Inadequate,35.31617647,No,2,No
+Tamil Nadu,The Nilgiris,Medium,"197,653","735,394",19,2565.00,52,Sufficient,35.58333333,Yes,7,No
+Tamil Nadu,Theni  ,Medium,"338,112","1,245,899",13,2868.00,85,Inadequate,35.8504902,Yes,4,No
+Tamil Nadu,Thiruvallur,Medium,"946,949","3,728,104",19,3394.00,98,Overburdened,36.11764706,Yes,5,No
+Kerala,Thiruvananthapuram,High,"837,877","3,301,427",11,2189.00,52,Inadequate,36.38480392,Yes,8,Yes
+Tamil Nadu,Thiruvarur,Medium,"327,219","1,264,277",23,2274.00,93,Sufficient,36.65196078,No,3,No
+Tamil Nadu,Thoothukkudi,Medium,"462,010","1,750,176",26,4745.00,134,Sufficient,11,Yes,4,No
+Manipur,Thoubal,Medium,"85,965","422,168",14,514.00,76,Inadequate,12,No,7,No
+Kerala,Thrissur,Medium,"759,210","3,121,200",20,3027.00,44,Overburdened,6,Yes,4,No
+Madhya Pradesh,Tikamgarh,Medium,"296,116","1,445,166",25,5048.00,60,Overburdened,7,No,11,No
+Assam,Tinsukia,High,"268,598","1,327,929",16,3790.00,120,Sufficient,8,No,14,No
+Arunachal Pradesh,Tirap,High,"20,611","111,975",25,2362.00,20,Overburdened,11,No,2,No
+Tamil Nadu,Tiruchirappalli,Medium,"698,404","2,722,290",20,4509.00,21,Inadequate,14,Yes,6,No
+Tamil Nadu,Tirunelveli ,High,"815,528","3,077,233",19,6693.00,24,Overburdened,16,Yes,8,No
+Tamil Nadu,Tiruppur,Medium,"712,210","2,479,052",11,5187.00,59,Overburdened,15,Yes,5,No
+Kerala,Tiruvannamalai,Medium,"588,836","2,464,875",23,6188.00,82,Overburdened,18,No,7,No
+Rajasthan,Tonk,Medium,"266,870","1,421,326",26,7194.00,225,Sufficient,19,No,4,No
+Nagaland,Tuensang,High,"36,742","196,596",14,2536.00,15,Sufficient,11,No,5,No
+Karnataka,Tumkur,Medium,"640,081","2,678,980",20,10597.00,124,Sufficient,8,Yes,6,No
+Rajasthan,Udaipur,Low,"623,531","3,068,420",25,11724.00,171,Overburdened,7,Yes,3,Yes
+Assam,Udalguri,High,"168,717","831,668",16,2012.00,41,Inadequate,9,No,6,No
+Uttarakhand,Udham Singh Nagar,High,"308,581","1,648,902",25,2542.00,140,Sufficient,4,No,7,No
+Jammu and Kashmir,Udhampur,High,"99,240","554,985",20,2637.00,88,Inadequate,5,No,4,No
+Karnataka,Udupi,High,"253,078","1,177,361",20,3582.00,35,Overburdened,7,Yes,5,No
+Madhya Pradesh,Ujjain,Medium,"391,438","1,986,864",16,6091.00,89,Inadequate,9,Yes,6,No
+Manipur,Ukhrul,High,"35,694","183,998",25,4544.00,14,Sufficient,11,No,7,No
+Madhya Pradesh,Umaria,Medium,"145,024","644,758",20,4076.00,40,Inadequate,12,No,4,No
+Himachal Pradesh,Una,High,"110,332","521,173",23,1540.00,49,Inadequate,4,No,8,No
+Uttar Pradesh,Unnao,Medium,"588,533","3,108,367",15,4558.00,126,Overburdened,5,No,3,No
+Arunachal Pradesh,Upper Siang,High,"7,324","35,320",18,6590.00,89,Inadequate,9,No,9,No
+Arunachal Pradesh,Upper Subansiri,High,"15,869","83,448",20,7032.00,104,Inadequate,4,No,11,No
+Chhattisgarh,Uttar Bastar Kanker,Medium,"160,937","748,941",20,7161.00,94,Inadequate,3,No,3,No
+West Bengal,Uttar Dinajpur,High,"605,674","3,007,134",17,3140.00,183,Sufficient,7,No,8,No
+Karnataka,Uttara Kannada,High,"324,530","1,437,169",20,10277.00,47,Overburdened,6,No,9,No
+Uttarakhand,Uttarkashi,High,"67,602","330,086",14,8016.00,63,Sufficient,11,No,2,No
+Gujarat,Vadodara,Low,"877,106","4,165,626",14,7546.00,54,Sufficient,12,Yes,4,Yes
+Bihar,Vaishali,Medium,"626,087","3,495,021",20,2036.00,179,Sufficient,12,No,9,No
+Gujarat,Valsad,Medium,"364,403","1,705,678",20,3008.00,77,Inadequate,7,Yes,6,No
+Uttar Pradesh,Varanasi,Medium,"560,162","3,676,841",19,1535.00,118,Inadequate,8.610526316,Yes,7,Yes
+Tamil Nadu,Vellore,Medium,"929,281","3,936,331",20,6075.00,43,Inadequate,8.706766917,Yes,4,No
+Madhya Pradesh,Vidisha,Medium,"299,676","1,458,875",23,7371.00,80,Inadequate,8.803007519,No,6,No
+Tamil Nadu,Viluppuram,Medium,"800,368","3,458,873",15,7194.00,88,Overburdened,8.89924812,Yes,5,No
+Tamil Nadu,Virudhunagar,Medium,"537,748","1,942,288",25,4241.00,31,Sufficient,8.995488722,Yes,7,No
+Andhra Pradesh,Visakhapatnam,Medium,"1,097,042","4,290,589",20,11161.00,230,Overburdened,9.091729323,Yes,3,Yes
+Andhra Pradesh,Vizianagaram,High,"587,149","2,344,474",20,6539.00,50,Overburdened,9.187969925,Yes,6,No
+Telangana,Warangal,Medium,"886,279","3,512,576",16,12846.00,42,Inadequate,9.284210526,Yes,9,No
+Maharashtra,Wardha,Low,"309,846","1,300,774",25,6309.00,116,Inadequate,9.380451128,Yes,11,Yes
+Maharashtra,Washim,Medium,"259,464","1,197,160",20,4901.19,75,Inadequate,9.476691729,No,12,No
+Kerala,Wayanad,High,"190,894","817,420",23,2130.00,36,Sufficient,9.572932331,No,5,No
+Meghalaya,West Garo Hills,High,"123,352","643,291",15,3677.00,93,Inadequate,9.669172932,No,6,No
+Andhra Pradesh,West Godavari,Medium,"1,091,525","3,936,966",18,7742.00,99,Overburdened,9.765413534,Yes,4,No
+Arunachal Pradesh,West Kameng,High,"18,159","83,947",20,7422.00,15,Inadequate,9.861654135,No,7,No
+Meghalaya,West Khasi Hills,High,"64,906","383,461",20,5247.00,44,Sufficient,9.957894737,No,2,No
+Arunachal Pradesh,West Siang,High,"21,231","112,274",17,8325.00,14,Sufficient,10.05413534,No,6,No
+Tripura,West Tripura ,High,"410,565","1,725,739",20,2993.00,42,Inadequate,10.15037594,Yes,7,Yes
+Nagaland,Wokha,High,"31,891","166,343",14,1628.00,36,Overburdened,10.24661654,No,9,Yes
+Andhra Pradesh,Y.S.R. (Kadapa),Medium,"706,204","2,882,469",14,15359.00,98,Overburdened,10.34285714,Yes,11,No
+Karnataka,Yadgir,Medium,"202,063","1,174,271",20,5270.00,95,Sufficient,10.43909774,No,5,No
+Haryana,Yamunanagar,Medium,"235,423","1,214,205",20,1768.00,256,Overburdened,10.53533835,Yes,6,Yes
+Puducherry,Yanam,Medium,"13,812","55,626",19,30.00,90,Inadequate,10.63157895,Yes,8,No
+Maharashtra,Yavatmal,Low,"646,886","2,772,348",20,13582.00,100,Overburdened,10.72781955,No,2,Yes
+Nagaland,Zunheboto,High,"27,835","140,757",23,1255.00,22,Overburdened,12,No,5,No
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
