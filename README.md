@@ -128,18 +128,14 @@ input_data = {
 # print(result) # Output: "Metro line is required" or "Metro line is not required"
 
 Contributions
+
 Contributions to this project are welcome! If you have suggestions for improvements, bug fixes, or new features, please consider:
 
 Forking the repository.
-
 Creating a new branch for your feature or fix (git checkout -b feature/YourFeatureName).
-
 Making your changes and ensuring the code adheres to best practices.
-
 Committing your changes (git commit -m 'Add new feature').
-
 Pushing to the branch (git push origin feature/YourFeatureName).
-
 Opening a Pull Request explaining your changes and their benefits.
 
 📧 Contact
