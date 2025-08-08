@@ -185,10 +185,10 @@ pip install pandas numpy scikit-learn tensorflow xgboost matplotlib seaborn flas
 
 Bash
 
-use the provided flaskpy code in the collab notebook and run the entire code
-flask should splash ngrok screen and provide a return address 
-copy the address and paste it inside await fetch part in the HTML code
-run the HTML code and enter data for appropriate responses
+use the provided flaskpy code in the collab notebook and run the entire code, 
+flask should splash ngrok screen and provide a return address,  
+copy the address and paste it inside await fetch part in the HTML code, 
+run the HTML code and enter data for appropriate responses, 
 
 ## Contributors:
 <a href="https://github.com/vardhannnn">Jaivardhan Tamminana</a>
